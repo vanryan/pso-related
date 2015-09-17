@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1393519733 source:e:\code\vr-fipso\v1\v1.1--respective functions\f4\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1396855625 source:e:\code\vr-vicpso\fipso v1.1\f4\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+

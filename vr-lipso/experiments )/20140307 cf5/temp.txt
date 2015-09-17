@@ -1,0 +1,46 @@
+cf5:
+186
+float  AveSucFit=-1;
+322
+if(sucCounter!=0){
+                AveSucFit=AveEndFit[vfun-1]/sucCounter;
+                printf("\n\n\nLast succeeded average gb fitness:%f\nLast average gb fitness:%f\n",AveEndFit[vfun-1]/sucCounter,AveAllEndFit[vfun-1]/testnum);
+            }
+            else
+                printf("\n\n\nLast succeeded average gb fitness: U gotta be kidding, man!\n");
+344
+fprintf(pso, "平均代数为,%f,达优率,%f%%,LastSucGb,%f,LastAllGb,%f\n", avggennew, (double)sucCounter / testnum * 100, AveSucFit,AveAllEndFit[vfun-1]/testnum);
+            printf("平均代数为,%f,达优率,%f%%,LastSucGb,%f,LastAllGb,%f\n", avggennew, (double)sucCounter / testnum * 100, AveSucFit,AveAllEndFit[vfun-1]/testnum);
+
+
+v1.1f1-f4:
+202
+float AveAllFit[4];
+221
+for(i = 0; i < 4; i++){
+            AveAllFit[i]=0;
+            AveEndFit[i]=0;
+        }
+
+404
+AveAllFit[vfun-1] += gb;
+
+467
+fprintf(pso, "AveGen,%f,SucRate,%f,SucEndFit,%f,LastFit,%f,StdIndex,%f\n", avggennew, (double)sucCounter/testnum*100,Sto_SucEndFit[vlneighs-1],AveAllFit[vfun-1]/testnum,stdindex[vlneighs-1]);
+            printf("\nAveGen,%f,SucRate,%f,SucEndFit,%f,LastFit,%f,StdIndex,%f\n", avggennew, (double)sucCounter/testnum*100,Sto_SucEndFit[vlneighs-1],AveAllFit[vfun-1]/testnum,stdindex[vlneighs-1]);
+
+v2.2f1-f4:
+166
+float AveAllFit[4];
+188
+for(i = 0; i < 4; i++){
+            AveAllFit[i]=0;
+            AveEndFit[i]=0;
+        }
+351
+AveAllFit[vfun-1] += gb;
+
+414
+fprintf(pso, "AveGen,%f,SucRate,%f,SucEndFit,%f,LastFit,%f,StdIndex,%f\n", avggennew, (double)sucCounter/testnum*100,Sto_SucEndFit[vlneighs],AveAllFit[vfun-1]/testnum,stdindex[vlneighs]);
+            printf("\nAveGen,%f,SucRate,%f,SucEndFit,%f,LastFit,%f,StdIndex,%f\n", avggennew, (double)sucCounter/testnum*100,Sto_SucEndFit[vlneighs],AveAllFit[vfun-1]/testnum,stdindex[vlneighs]);
+

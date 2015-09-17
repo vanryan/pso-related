@@ -1,0 +1,64 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+AveGen,152.649994,SucRate,100.000000,SucEndFit,0.000000,LastFit,60.952850,StdIndex,96.659454
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+AveGen,4999.000000,SucRate,0.000000,SucEndFit,-1.000000,LastFit,219.361206,StdIndex,0.020314
+lneighs:2
+AveGen,4999.000000,SucRate,0.000000,SucEndFit,-1.000000,LastFit,191.225195,StdIndex,0.220432
+lneighs:3
+AveGen,4999.000000,SucRate,0.000000,SucEndFit,-1.000000,LastFit,166.917236,StdIndex,0.341462
+lneighs:4
+AveGen,1381.705933,SucRate,85.000000,SucEndFit,21.176979,LastFit,37.601273,StdIndex,0.656723
+lneighs:5
+AveGen,234.149994,SucRate,100.000000,SucEndFit,28.339376,LastFit,28.339377,StdIndex,0.057973
+lneighs:6
+AveGen,155.149994,SucRate,100.000000,SucEndFit,34.455120,LastFit,34.455121,StdIndex,0.025391
+lneighs:7
+AveGen,93.650002,SucRate,100.000000,SucEndFit,38.693001,LastFit,38.693002,StdIndex,0.184082
+lneighs:8
+AveGen,79.099998,SucRate,100.000000,SucEndFit,43.403568,LastFit,43.403568,StdIndex,0.286303
+lneighs:9
+AveGen,69.650002,SucRate,100.000000,SucEndFit,45.090919,LastFit,45.090918,StdIndex,0.095384
+lneighs:10
+AveGen,63.650002,SucRate,100.000000,SucEndFit,52.212090,LastFit,52.212091,StdIndex,-0.031654
+lneighs:11
+AveGen,62.500000,SucRate,100.000000,SucEndFit,51.766777,LastFit,51.766779,StdIndex,0.177403
+lneighs:12
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:3
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:5
+AveGen,74.150002,SucRate,100.000000,SucEndFit,32.151257,LastFit,32.151257,StdIndex,0.129279
+lneighs:6
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:4
+AveGen,143.300003,SucRate,100.000000,SucEndFit,25.979965,LastFit,25.979965,StdIndex,0.511607
+lneighs:5
+AveGen,92.500000,SucRate,100.000000,SucEndFit,32.359383,LastFit,32.359381,StdIndex,0.065612
+lneighs:6
+AveGen,72.650002,SucRate,100.000000,SucEndFit,35.923161,LastFit,35.923160,StdIndex,0.345825
+lneighs:7
+AveGen,53.750000,SucRate,100.000000,SucEndFit,39.032143,LastFit,39.032144,StdIndex,-0.117233
+lneighs:8
+AveGen,51.299999,SucRate,100.000000,SucEndFit,47.905506,LastFit,47.905505,StdIndex,0.097721
+lneighs:9
+AveGen,44.599998,SucRate,100.000000,SucEndFit,53.090416,LastFit,53.090417,StdIndex,0.036968
+lneighs:10
+AveGen,42.549999,SucRate,100.000000,SucEndFit,53.538765,LastFit,53.538763,StdIndex,0.064182
+lneighs:11
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0

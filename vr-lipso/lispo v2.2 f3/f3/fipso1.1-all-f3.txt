@@ -1,0 +1,6 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+lneighs:1
+lneighs:1

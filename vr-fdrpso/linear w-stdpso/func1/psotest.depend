@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1316678285 source:e:\test\standard pso\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1398243251 source:e:\code\canonical pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1398243016 e:\code\canonical pso\settings.h
+
+1399016149 source:e:\code\fdrpso tr\linear w-stdpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399016181 e:\code\fdrpso tr\linear w-stdpso\settings.h
+
+1399096886 source:e:\code\vr-fdrpso\linear w-stdpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399096921 e:\code\vr-fdrpso\linear w-stdpso\settings.h
+

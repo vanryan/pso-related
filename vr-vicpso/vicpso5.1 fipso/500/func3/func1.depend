@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1396673271 source:e:\code\vr-vicpso\vicpso5.0 fipso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1396704095 source:e:\code\vr-vicpso\vicpso5.1 fipso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1396703231 e:\code\vr-vicpso\vicpso5.1 fipso\settings.h
+
+1396705354 source:e:\code\vr-vicpso\vicpso5.1 fipso\500\func3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1396711613 e:\code\vr-vicpso\vicpso5.1 fipso\500\settings.h
+

@@ -1,0 +1,8 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%

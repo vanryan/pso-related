@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1316678285 source:e:\test\standard pso\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1398243251 source:e:\code\canonical pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1398243016 e:\code\canonical pso\settings.h
+
+1399170951 source:e:\code\vr-clpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399170883 e:\code\vr-clpso\settings.h
+

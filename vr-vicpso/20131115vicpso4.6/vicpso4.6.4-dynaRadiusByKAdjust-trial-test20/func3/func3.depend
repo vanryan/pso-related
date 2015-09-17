@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1384520218 source:e:\code\vr-vicpso\vicpso4.6.0-dynaradiusbykadjust-trial-test20\func3\func3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+

@@ -1,0 +1,7 @@
+func2都是从0.6(半径系数)开始跑的，应从0.24开始
+
+相对半径（半径系数k）0.24-1.00
+testnum=100
+
+存储文件夹: c:/onlyDynaRadius
+注意不是 c:/pso/onlyDynaRadius

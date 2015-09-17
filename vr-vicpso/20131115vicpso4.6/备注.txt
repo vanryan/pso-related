@@ -1,0 +1,6 @@
+c:/pso/dynaRadKSort1/100
+c:/pso/dynaRadKSort1.1/100
+c:/pso/dynaRadKSort1.2/100
+c:/pso/dynaRadKSort1.3/100
+c:/pso/dynaRadKSort1.4/100
+c:/pso/dynaRadKSort1.5/100

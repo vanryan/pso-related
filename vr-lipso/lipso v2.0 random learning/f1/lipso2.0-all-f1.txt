@@ -1,0 +1,83 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:2
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+AveGen:4999.000000
+SucRate0.000000%lneighs:3
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:49
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0

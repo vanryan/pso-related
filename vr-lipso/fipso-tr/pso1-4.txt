@@ -1,0 +1,443 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：50.000000
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness:56.192375
+
+平均代数为：33.750000
+达优率为：80.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：50.000000
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:28.962588
+
+平均代数为：24.000000
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：20.000000
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：41.000000
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness:61.589305
+
+平均代数为：1340.666626
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：857.000000
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:39.061249
+
+平均代数为：1084.666626
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:23.351934
+
+平均代数为：673.333313
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：850.000000
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：849.666687
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:24.067446
+
+平均代数为：751.666687
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:26.598750
+
+平均代数为：824.333313
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：2683.666748
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：562.333313
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：483.000000
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:0.000000
+
+平均代数为：472.666656
+达优率为：100.000000%
+
+
+Last succeeded average gb fitness:39.745954
+
+平均代数为：1874.333374
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness:-0.499950
+
+平均代数为：77.000000
+达优率为：66.666667%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness:74.663574
+
+平均代数为：35.000000
+达优率为：66.666667%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness:63.997396
+
+平均代数为：32.333332
+达优率为：60.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness:47.841740
+
+平均代数为：28.000000
+达优率为：40.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%
+
+
+Last succeeded average gb fitness:85.808563
+
+平均代数为：46.000000
+达优率为：10.000000%
+
+
+Last succeeded average gb fitness:54.802399
+
+平均代数为：29.250000
+达优率为：40.000000%
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：4999.000000
+达优率为：0.000000%
+平均代数为：4999.000000
+达优率为：0.000000%
+平均代数为：4999.000000
+达优率为：0.000000%
+平均代数为：4999.000000
+达优率为：0.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：567.500000
+达优率为：100.000000%
+平均代数为：610.099976
+达优率为：100.000000%
+平均代数为：285.299988
+达优率为：100.000000%
+平均代数为：531.599976
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：556.799988
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：566.299988
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：587.000000
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：588.599976
+达优率为：100.000000%
+平均代数为：604.375000
+达优率为：80.000000%
+平均代数为：256.100006
+达优率为：100.000000%
+平均代数为：520.099976
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：577.700012
+达优率为：100.000000%
+平均代数为：549.000000
+达优率为：100.000000%
+平均代数为：281.100006
+达优率为：100.000000%
+平均代数为：519.200012
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+
+平均代数为：575.000000
+达优率为：100.000000%
+平均代数为：837.111084
+达优率为：90.000000%
+平均代数为：271.000000
+达优率为：100.000000%
+平均代数为：516.700012
+达优率为：100.000000%

@@ -1,0 +1,6 @@
+相对半径（半径系数k）0.24-1.00
+testnum=20
+
+存储文件夹：vicpso4.4.4onlyveloneo
+
+neodiag，即粒子群中相聚最远的粒子间的距离

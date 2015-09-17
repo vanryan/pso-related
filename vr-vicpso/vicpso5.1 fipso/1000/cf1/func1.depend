@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1396673271 source:e:\code\vr-vicpso\vicpso5.0 fipso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1396704095 source:e:\code\vr-vicpso\vicpso5.1 fipso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1396703231 e:\code\vr-vicpso\vicpso5.1 fipso\settings.h
+
+1398776389 source:e:\code\vr-vicpso\vicpso5.1 fipso\100\cf1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../hybsettings.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1398776729 e:\code\vr-vicpso\vicpso5.1 fipso\100\hybsettings.h
+
+1389968600 e:\code\vr-vicpso\vicpso5.1 fipso\100\cf1\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-vicpso\vicpso5.1 fipso\100\cf1\basicfuncs.h
+
+1396863066 e:\code\vr-vicpso\vicpso5.1 fipso\100\cf1\hybridfuncs.h
+
+1398776389 source:e:\code\vr-vicpso\vicpso5.1 fipso\300\cf1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../hybsettings.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1398777189 e:\code\vr-vicpso\vicpso5.1 fipso\300\hybsettings.h
+
+1389968600 e:\code\vr-vicpso\vicpso5.1 fipso\300\cf1\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-vicpso\vicpso5.1 fipso\300\cf1\basicfuncs.h
+
+1396863066 e:\code\vr-vicpso\vicpso5.1 fipso\300\cf1\hybridfuncs.h
+
+1398776389 source:e:\code\vr-vicpso\vicpso5.1 fipso\500\cf1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../hybsettings.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1398777831 e:\code\vr-vicpso\vicpso5.1 fipso\500\hybsettings.h
+
+1389968600 e:\code\vr-vicpso\vicpso5.1 fipso\500\cf1\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-vicpso\vicpso5.1 fipso\500\cf1\basicfuncs.h
+
+1396863066 e:\code\vr-vicpso\vicpso5.1 fipso\500\cf1\hybridfuncs.h
+
+1398776389 source:e:\code\vr-vicpso\vicpso5.1 fipso\750\cf1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../hybsettings.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1398778720 e:\code\vr-vicpso\vicpso5.1 fipso\750\hybsettings.h
+
+1389968600 e:\code\vr-vicpso\vicpso5.1 fipso\750\cf1\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-vicpso\vicpso5.1 fipso\750\cf1\basicfuncs.h
+
+1396863066 e:\code\vr-vicpso\vicpso5.1 fipso\750\cf1\hybridfuncs.h
+
+1398776389 source:e:\code\vr-vicpso\vicpso5.1 fipso\1000\cf1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../hybsettings.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1398778931 e:\code\vr-vicpso\vicpso5.1 fipso\1000\hybsettings.h
+
+1389968600 e:\code\vr-vicpso\vicpso5.1 fipso\1000\cf1\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-vicpso\vicpso5.1 fipso\1000\cf1\basicfuncs.h
+
+1396863066 e:\code\vr-vicpso\vicpso5.1 fipso\1000\cf1\hybridfuncs.h
+

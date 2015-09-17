@@ -1,0 +1,4 @@
+数据存储
+最终全局最优值AveEndFit，最终全局最优值AveSucFit（仅达优），达优率AveOptRate,达优代数AveOptGen，标准化综合评价StdIndex（分函数跑时，记录名为FIndex）
+
+保存数据文件时，用了../../xxx，即升了两级目录，funcx的数据输出在自己的funcx里

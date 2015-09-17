@@ -1,0 +1,27 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:35
+
+
+
+Last succeeded average gb fitness:0.001913294382393360100000000000
+
+AveGen:62.599998
+SucRate50.000000%
+
+
+Last succeeded average gb fitness:52.842163085937500000000000000000
+
+AveGen:41.714287
+SucRate35.000000%
+
+
+Last succeeded average gb fitness:29.038936614990234000000000000000
+
+AveGen:33.250000
+SucRate80.000000%
+
+
+Last succeeded average gb fitness:0.067090809345245361000000000000
+
+AveGen:68.750000
+SucRate20.000000%

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1383658690 source:e:\code\vicpso\vicpso4.4.3-0.02inte-t100-gbestreinit\500\func3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+
+1383739311 source:e:\code\vicpso\vicpso4.4.3-0.02inte-t20-pgbestreinit\500\func3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+

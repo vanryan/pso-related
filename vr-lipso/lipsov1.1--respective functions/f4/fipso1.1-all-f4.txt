@@ -1,0 +1,15 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+AveGen,282.399994,SucRate,100.000000,SucEndFit,0.014865,LastFit,0.014865,StdIndex,-0.264114
+lneighs:2
+AveGen,138.699997,SucRate,100.000000,SucEndFit,0.021576,LastFit,0.021576,StdIndex,-0.028684
+lneighs:3
+AveGen,98.550003,SucRate,100.000000,SucEndFit,0.018826,LastFit,0.018826,StdIndex,-0.269773
+lneighs:4
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+lneighs:1

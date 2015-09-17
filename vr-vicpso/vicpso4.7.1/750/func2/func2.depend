@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1382804534 source:e:\code\vicpso\vicpso4.4-0.02inte-t20-int1000\func2\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+
+1383315774 source:e:\code\vicpso\vicpso4.4.2-0.02inte-t100-interval\inte50\func2\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+
+1396693272 source:e:\code\vr-vicpso\vicpso4.7.1\750\func2\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+	"../settings.h"
+
+1396694175 e:\code\vr-vicpso\vicpso4.7.1\750\settings.h
+

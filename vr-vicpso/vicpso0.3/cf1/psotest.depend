@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1316678285 source:e:\test\standard pso\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1398243251 source:e:\code\canonical pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1398243016 e:\code\canonical pso\settings.h
+
+1399171836 source:e:\code\vr-clpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399171855 e:\code\vr-clpso\settings.h
+
+1399184028 source:e:\code\vr-clpso\code according to comprehensive learning particle swarm optimizer for global optimization of multimodal functions\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399193048 e:\code\vr-clpso\code according to comprehensive learning particle swarm optimizer for global optimization of multimodal functions\settings.h
+

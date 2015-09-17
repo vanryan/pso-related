@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1387165436 source:e:\code\vr-fipso\v1\v1.1--respective functions\f3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1392908955 source:e:\code\vr-fipso\lipso v2.3 random learning with gb - var\f3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+

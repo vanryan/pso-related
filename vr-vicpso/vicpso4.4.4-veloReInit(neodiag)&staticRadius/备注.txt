@@ -1,0 +1,4 @@
+相对半径（半径系数k）0.24-1.00
+testnum=20
+
+数据存储文件夹：vicpso4.4.4onlyveloneo 与vicpso4.4.4-veloReInit(neodiag)&dynaRadius （速度重初始化和动态半径调整）雷同！

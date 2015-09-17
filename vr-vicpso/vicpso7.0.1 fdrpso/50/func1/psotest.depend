@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1316678285 source:e:\test\standard pso\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1398243251 source:e:\code\canonical pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1398243016 e:\code\canonical pso\settings.h
+
+1399016149 source:e:\code\fdrpso tr\linear w-stdpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399016181 e:\code\fdrpso tr\linear w-stdpso\settings.h
+
+1399020792 source:e:\code\vr-vicpso\vicpso7.0 fdrpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399024568 e:\code\vr-vicpso\vicpso7.0 fdrpso\settings.h
+
+1399023914 source:e:\code\vr-vicpso\vicpso7.0 fdrpso\temp\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399033017 source:e:\code\vr-vicpso\vicpso7.0.0 fdrpso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399024568 e:\code\vr-vicpso\vicpso7.0.0 fdrpso\settings.h
+
+1399033017 source:e:\code\vr-vicpso\vicpso7.0.1 fdrpso\50\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399024568 e:\code\vr-vicpso\vicpso7.0.1 fdrpso\50\settings.h
+

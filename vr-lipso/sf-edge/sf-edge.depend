@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1305957994 source:e:\psonew\sf-edge\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+

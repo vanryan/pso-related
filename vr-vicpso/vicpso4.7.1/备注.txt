@@ -1,0 +1,10 @@
+func2都是从0.6(半径系数)开始跑的，应从0.24开始
+
+相对半径（半径系数k）0.24-1.00
+testnum=100
+
+数据存储
+最终全局最优值AveEndFit，最终全局最优值AveSucFit（仅达优），达优率AveOptRate,达优代数AveOptGen，标准化综合评价StdIndex（分函数跑时，记录名为FIndex）
+
+保存数据文件时，用了../../xxx，即升了两级目录，funcx的数据输出在自己的funcx里
+输出文件名为vicpso-dynarad.txt, vicpso-OptFit-dynarad.txt

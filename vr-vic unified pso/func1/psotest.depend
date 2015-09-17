@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1316678285 source:e:\test\standard pso\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1398243251 source:e:\code\canonical pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1398243016 e:\code\canonical pso\settings.h
+
+1399079929 source:e:\code\vr-unified pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399080794 e:\code\vr-unified pso\settings.h
+
+1399082229 source:e:\code\vr-vicpso\vicpso8.0.0 upso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399082269 e:\code\vr-vicpso\vicpso8.0.0 upso\settings.h
+
+1399172949 source:e:\code\vr-vic unified pso\func1\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1399184819 e:\code\vr-vic unified pso\settings.h
+

@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1386755404 source:e:\code\vr-fipso\v1\fipsov1.1all\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+
+1390211146 source:e:\code\vr-fipso\v1\v1.1 compositionfuncs\tr\lipso\cfunc1 - rec\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1389968600 e:\code\vr-fipso\v1\v1.1 compositionfuncs\tr\lipso\cfunc1 - rec\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-fipso\v1\v1.1 compositionfuncs\tr\lipso\cfunc1 - rec\basicfuncs.h
+
+1390143666 e:\code\vr-fipso\v1\v1.1 compositionfuncs\tr\lipso\cfunc1 - rec\hybridfuncs.h
+
+1390211549 source:e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1389968600 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec\basicfuncs.h
+
+1390143666 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec\hybridfuncs.h
+
+1393059012 source:e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec - try to use ceartain parameters\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1389968600 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec - try to use ceartain parameters\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec - try to use ceartain parameters\basicfuncs.h
+
+1393069102 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec - try to use ceartain parameters\hybridfuncs.h
+
+1393517100 source:e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec -certain\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	<fstream>
+	"ortho_rot_matrix.h"
+	"basicfuncs.h"
+	"hybridfuncs.h"
+
+1389968600 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec -certain\ortho_rot_matrix.h
+	<iostream>
+	"math.h"
+	"time.h"
+	"limits.h"
+	"stdlib.h"
+
+1390142855 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec -certain\basicfuncs.h
+
+1393069102 e:\code\vr-fipso\lipsov1.1 composition funcs\cfunc1 - rec -certain\hybridfuncs.h
+

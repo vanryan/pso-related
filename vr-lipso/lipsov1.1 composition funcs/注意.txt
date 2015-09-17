@@ -1,0 +1,7 @@
+改变函数标号时时：
+hyb_func5_init(fmax,or_matrix,opt_arr,opt_arr_old);
+pso = fopen("lipso1.1-rec-all-cf5.txt", "a+");
+pso = fopen("lipso1.1-all-cf5.txt", "a+");
+for(vfun = 5; vfun < 6; vfun++)
+
+带有-rec同时有-certain后缀的为最后使用的，并加上了stdindex

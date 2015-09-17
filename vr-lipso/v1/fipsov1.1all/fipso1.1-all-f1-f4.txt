@@ -1,0 +1,14 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:0
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness:-0.200000
+
+平均代数为：313.799988
+达优率为：100.000000%num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1

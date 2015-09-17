@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1384180168 source:c:\users\administrator\desktop\20131111\vicpso4.4.4-0.02inte-t20-pgbest&veloreinit(neodiag)\50\func3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"string.h"
+

@@ -1,0 +1,345 @@
+num	w	c1	c2	funcnum	avggen	ratio	finalresult
+lneighs:1
+
+
+
+Last succeeded average gb fitness:-0.191634
+
+平均代数为：265.600006
+达优率为：100.000000%lneighs:2
+
+
+
+Last succeeded average gb fitness:-0.159816
+
+平均代数为：147.199997
+达优率为：100.000000%lneighs:3
+
+
+
+Last succeeded average gb fitness:-0.180791
+
+平均代数为：106.800003
+达优率为：100.000000%lneighs:4
+
+
+
+Last succeeded average gb fitness:-0.190621
+
+平均代数为：79.400002
+达优率为：100.000000%lneighs:5
+
+
+
+Last succeeded average gb fitness:-0.192762
+
+平均代数为：72.599998
+达优率为：100.000000%lneighs:6
+
+
+
+Last succeeded average gb fitness:-0.191052
+
+平均代数为：68.199997
+达优率为：100.000000%lneighs:7
+
+
+
+Last succeeded average gb fitness:-0.197524
+
+平均代数为：63.000000
+达优率为：100.000000%lneighs:8
+
+
+
+Last succeeded average gb fitness:-0.196522
+
+平均代数为：59.599998
+达优率为：100.000000%lneighs:9
+
+
+
+Last succeeded average gb fitness:-0.192928
+
+平均代数为：59.599998
+达优率为：100.000000%lneighs:10
+
+
+
+Last succeeded average gb fitness:-0.194989
+
+平均代数为：59.599998
+达优率为：100.000000%lneighs:11
+
+
+
+Last succeeded average gb fitness:-0.198029
+
+平均代数为：54.599998
+达优率为：100.000000%lneighs:12
+
+
+
+Last succeeded average gb fitness:-0.198519
+
+平均代数为：53.599998
+达优率为：100.000000%lneighs:13
+
+
+
+Last succeeded average gb fitness:-0.195084
+
+平均代数为：55.799999
+达优率为：100.000000%lneighs:14
+
+
+
+Last succeeded average gb fitness:-0.196324
+
+平均代数为：55.000000
+达优率为：100.000000%lneighs:15
+
+
+
+Last succeeded average gb fitness:-0.199733
+
+平均代数为：52.200001
+达优率为：100.000000%lneighs:16
+
+
+
+Last succeeded average gb fitness:-0.196498
+
+平均代数为：53.200001
+达优率为：100.000000%lneighs:17
+
+
+
+Last succeeded average gb fitness:-0.199995
+
+平均代数为：53.400002
+达优率为：100.000000%lneighs:18
+
+
+
+Last succeeded average gb fitness:-0.197281
+
+平均代数为：52.200001
+达优率为：100.000000%lneighs:19
+
+
+
+Last succeeded average gb fitness:-0.198340
+
+平均代数为：53.000000
+达优率为：100.000000%lneighs:20
+
+
+
+Last succeeded average gb fitness:-0.194589
+
+平均代数为：55.200001
+达优率为：100.000000%lneighs:21
+
+
+
+Last succeeded average gb fitness:-0.197526
+
+平均代数为：55.400002
+达优率为：100.000000%lneighs:22
+
+
+
+Last succeeded average gb fitness:-0.194146
+
+平均代数为：53.799999
+达优率为：100.000000%lneighs:23
+
+
+
+Last succeeded average gb fitness:-0.196643
+
+平均代数为：54.200001
+达优率为：100.000000%lneighs:24
+
+
+
+Last succeeded average gb fitness:-0.188496
+
+平均代数为：58.200001
+达优率为：100.000000%lneighs:25
+
+
+
+Last succeeded average gb fitness:-0.193165
+
+平均代数为：55.000000
+达优率为：100.000000%lneighs:26
+
+
+
+Last succeeded average gb fitness:-0.164901
+
+平均代数为：65.000000
+达优率为：100.000000%lneighs:27
+
+
+
+Last succeeded average gb fitness:-0.189853
+
+平均代数为：54.799999
+达优率为：100.000000%lneighs:28
+
+
+
+Last succeeded average gb fitness:-0.181356
+
+平均代数为：57.400002
+达优率为：100.000000%lneighs:29
+
+
+
+Last succeeded average gb fitness:-0.219228
+
+平均代数为：59.500000
+达优率为：80.000000%lneighs:30
+
+
+
+Last succeeded average gb fitness:-0.172833
+
+平均代数为：59.799999
+达优率为：100.000000%lneighs:31
+
+
+
+Last succeeded average gb fitness:-0.275035
+
+平均代数为：67.000000
+达优率为：60.000000%lneighs:32
+
+
+
+Last succeeded average gb fitness:-0.211866
+
+平均代数为：58.500000
+达优率为：80.000000%lneighs:33
+
+
+
+Last succeeded average gb fitness:-0.457289
+
+平均代数为：60.000000
+达优率为：40.000000%lneighs:34
+
+
+
+Last succeeded average gb fitness:-0.948969
+
+平均代数为：61.000000
+达优率为：20.000000%lneighs:35
+
+
+
+Last succeeded average gb fitness:-0.435909
+
+平均代数为：67.500000
+达优率为：40.000000%lneighs:36
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:37
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:38
+
+
+
+Last succeeded average gb fitness:-0.924909
+
+平均代数为：67.000000
+达优率为：20.000000%lneighs:39
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:40
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:41
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:42
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:43
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:44
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:45
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:46
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:47
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:48
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%lneighs:49
+
+
+
+Last succeeded average gb fitness: U gotta be kidding, man!
+
+平均代数为：4999.000000
+达优率为：0.000000%

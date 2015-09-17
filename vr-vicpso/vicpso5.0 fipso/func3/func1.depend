@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1396691534 source:e:\code\vr-vicpso\vicpso5.0 fipso\func3\main.cpp
+	"stdio.h"
+	"math.h"
+	"stdlib.h"
+	"time.h"
+	"limits.h"
+	"../settings.h"
+
+1396689263 e:\code\vr-vicpso\vicpso5.0 fipso\settings.h
+
